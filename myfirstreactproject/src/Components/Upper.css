@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.Upper{
+    display: flex;
+    width: 500px;
+    height: 60px;
+    border: 2px solid red;
+    
+    
+}
+.Upper1{
+    background-color: black;
+    color: white;
+    height: 45px;
+    width: 165px;
+    margin: 0px 0px 0px 5px;
+    border-radius: 10px;
+    padding: 12px 14px 0px 10px;
+    border: 2px solid red;
+}
+
+.Upper2{
+    background-color: #EDEDED;
+    width: 90px;
+    height: 45px;
+    border-radius: 10px;
+    padding: 12px 14px 0px 15px;
+    margin-left: 10px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
